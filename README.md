@@ -2,6 +2,7 @@
 
 - :man_technologist: *Front End Developer at **Ioasys***
 - :student: *I'm learning software engineering at **Puc Minas***
+- :e-mail: *My contact is **lucasmourap@gmail.com***
 
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMouraPereira&show_icons=true&theme=tokyonight" />
