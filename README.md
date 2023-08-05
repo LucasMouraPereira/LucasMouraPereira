@@ -19,21 +19,21 @@
   ```
     const lucas= {
       pronouns: "he" || "his",
-    code: ["Javascript", "Typescript", "HTML", "CSS"],
-    tools: [
-      "React",
-      "NextJS".
-      "Redux",
-      "Styled-Components",
-      "Style-System",
-      "Jest", 
-    ],
-    architecture: ["Duck pattern","Atomo pattern" "microservices"], 
-    studying: [
-      "React Native",
-      "Node",
-      "Test-library',
-      "Jest"
-    ],
+      code: ["Javascript", "Typescript", "HTML", "CSS"],
+      tools: [
+        "React",
+        "NextJS".
+        "Redux",
+        "Styled-Components",
+        "Style-System",
+        "Jest", 
+      ],
+      architecture: ["Duck pattern","Atomo pattern" "microservices"], 
+      studying: [
+        "React Native",
+        "Node",
+        "Test-library',
+        "Jest"
+      ],
   };
   ```
