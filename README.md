@@ -10,5 +10,5 @@
   </div>
 
   <div>
-    <img height="50em" width="50em" src="./zelda_link.gif" />
+    <img height="36em" width="36em" src="./zelda_link.gif" />
   </div>
