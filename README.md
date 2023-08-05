@@ -8,3 +8,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMouraPereira&show_icons=true&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMouraPereira&langs_count=4&show_icons=true&theme=tokyonight&layout=donut" />
   </div>
+
+  <div>
+    <img height="5em" src="./zelda_link.gif" />
+  </div>
