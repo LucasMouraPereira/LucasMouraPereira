@@ -16,24 +16,21 @@
     <span>About me ...</span>
   </div>
 
-  ```
-    const lucas= {
+  ```typescript:
+    const lucas = {
       pronouns: "he" || "his",
       code: ["Javascript", "Typescript", "HTML", "CSS"],
       tools: [
         "React",
-        "NextJS".
+        "NextJS",
         "Redux",
         "Styled-Components",
         "Style-System",
-        "Jest", 
+        "Jest",
+        "Storybook",
       ],
-      architecture: ["Duck pattern","Atomo pattern" "microservices"], 
-      studying: [
-        "React Native",
-        "Node",
-        "Test-library',
-        "Jest"
-      ],
-  };
+      architecture: ["Duck pattern", "Atomo pattern", "microservices"],
+      studying: ["React Native", "Node", "Test-library", "Storybook", "Jest"],
+    };
+  
   ```
